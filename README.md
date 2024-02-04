@@ -3,3 +3,10 @@
 1. Multiple of 3 or 5
 2. Largest Prime Factor
 3. Even Fibonacci Numbers
+4. Nearest Square Root
+5. Symmetric Difference
+6. Update Inventory
+7. Pairwise
+8. Bubble Sort
+9. Selection Sort
+10. Insertion Sort
