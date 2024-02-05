@@ -13,3 +13,6 @@
 11. Plus Minus
 12. Min Max
 13. Time Conversion
+14. Shape Area
+15. Adjacent Elements Product
+16. Make Array Consecutive 2
