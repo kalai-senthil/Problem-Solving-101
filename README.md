@@ -10,3 +10,6 @@
 8. Bubble Sort
 9. Selection Sort
 10. Insertion Sort
+11. Plus Minus
+12. Min Max
+13. Time Conversion
