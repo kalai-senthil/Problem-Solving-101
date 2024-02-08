@@ -22,4 +22,4 @@
 20. Sparse Arrays
 21. Matrix Elements Sum
 22. Lucky Number
-23.
+23. XOR Strings 2
