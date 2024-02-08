@@ -16,3 +16,10 @@
 14. Shape Area
 15. Adjacent Elements Product
 16. Make Array Consecutive 2
+17. All Longest Strings
+18. Almost Increasing Square
+19. Diagonal Difference
+20. Sparse Arrays
+21. Matrix Elements Sum
+22. Lucky Number
+23.
