@@ -23,3 +23,7 @@
 21. Matrix Elements Sum
 22. Lucky Number
 23. XOR Strings 2
+24. Flipping Bits
+25. Pangrams
+26. Subdivision Arrays
+27. Permutating Two Arrays
