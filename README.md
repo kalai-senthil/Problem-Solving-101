@@ -27,3 +27,9 @@
 25. Pangrams
 26. Subdivision Arrays
 27. Permutating Two Arrays
+28. Sales by Match
+29. Caesar Cipher
+30. Dynamic Arrays
+31. Max Min
+32. Grid Challenge
+33. Recursive Digit Sum
