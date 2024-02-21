@@ -33,3 +33,4 @@
 31. Max Min
 32. Grid Challenge
 33. Recursive Digit Sum
+34. Counter game
