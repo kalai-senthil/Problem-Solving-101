@@ -34,3 +34,6 @@
 32. Grid Challenge
 33. Recursive Digit Sum
 34. Counter game
+35. Anagrams
+36. Smallest of 2 arrays
+37. Patterns
