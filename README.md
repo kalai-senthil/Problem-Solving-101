@@ -37,3 +37,4 @@
 35. Anagrams
 36. Smallest of 2 arrays
 37. Patterns
+38. Sum of Divisors
