@@ -38,3 +38,4 @@
 36. Smallest of 2 arrays
 37. Patterns
 38. Sum of Divisors
+39. Left Rotate n times
